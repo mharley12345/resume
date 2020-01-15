@@ -66,7 +66,7 @@ let resumeData = {
       "skillname":"PostgreSQL"
     },
     {
-      "skillname":"AWS s3"
+      "skillname":"AWS"
     }
   ],
 
