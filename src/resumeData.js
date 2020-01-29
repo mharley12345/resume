@@ -18,7 +18,7 @@ let resumeData = {
       },
       {
         "name":"skype",
-        "url":"http://skype.com/live:.cid.ba5abbcab6b81b1f",
+        "url":"https://www.skype.com/en/ ",
         "className":"fa fa-skype"
       }
     ],
@@ -66,7 +66,7 @@ let resumeData = {
       "skillname":"PostgreSQL"
     },
     {
-      "skillname":"AWS s3"
+      "skillname":"AWS"
     }
   ],
 
